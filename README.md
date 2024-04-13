@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @null8bit
+- 👀 I´m looking about ways to contribute with community and the world
+- 🌱 I’m currently learning Kotlin, docker and elasticsearch infrastucture
+- 📫 How to reach me t.me/@null8bit
